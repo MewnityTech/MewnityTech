@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm MewnityTech! 👋
 
-<!--
-**MewnityTech/MewnityTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner programmer continuously learning and growing in the world of web and software development. I'm currently studying  and always excited to work on new projects and challenges👾
 
-Here are some ideas to get you started:
+## 🔥 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **jQuery**
+- **React**
+- **React Native**
+
+### Backend
+- **Go**
+- **Python**
+
+## 🚀 About Me
+Adventurer, meme lover, coder and sometimes philosopher.
+
+## 📈 GitHub Stats
+![MewnityTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MewnityTech&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me
+Feel free to reach out or collaborate on any exciting projects!
+- [Telegram](https://t.me/mewntech)
+- [ElementSocial](https://elemsocial.com/e/mewnity)
+
+*Let's build something cool and funny together!*
