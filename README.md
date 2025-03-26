@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm MewnityTech! 👋</h1>
+  <h1>Hi, I'm MewnityTech! 👾👾👾</h1>
   <p>
     Welcome to my GitHub profile!<br>
-    I'm a beginner programmer continuously learning and growing in the world of web and software development. Always excited to work on new projects and challenges 👾
+    I'm a beginner programmer continuously learning and growing in the world of web and software development. Always excited to work on new projects and challenges!
   </p>
 </div>
 
@@ -51,7 +51,7 @@
 <div align="center">
   <em>
     Adventurer, meme lover, coder and sometimes philosopher.<br>
-    I'm studying in English and always on the quest for new knowledge!
+    I'm just studying and always on the quest for new knowledge!
   </em>
 </div>
 
