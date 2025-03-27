@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm MewnityTech! 👾👾👾</h1>
+  <h1>Hi, I'm MewnityTech! 👾</h1>
   <p>
     Welcome to my GitHub profile!<br>
-    I'm a beginner programmer continuously learning and growing in the world of web and software development. Always excited to work on new projects and challenges!
+    I'm a beginner programmer continuously learning and growing in the world of web and software development.
   </p>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool Cat GIF" width="400"/>
 </div>
 
 ---
@@ -31,7 +32,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/><br><sub>React</sub>
       </td>
       <td align="center" width="96">
-        <!-- Используем тот же значок, что и для React -->
+        <!-- Using same icon for React Native -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React Native"/><br><sub>React Native</sub>
       </td>
       <td align="center" width="96">
@@ -50,8 +51,8 @@
 
 <div align="center">
   <em>
-    Adventurer, meme lover, coder and sometimes philosopher.<br>
-    I'm just studying and always on the quest for new knowledge!
+    Adventurer, meme lover, coder, and sometimes philosopher.<br>
+    I'm on a quest for new knowledge, always exploring innovative ideas and challenges.
   </em>
 </div>
 
