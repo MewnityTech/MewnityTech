@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" alt="Flying Multicolored Cat GIF" width="400"/>
+  <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" alt="Flying Rainbow Cat GIF" width="400"/>
 </div>
 
 ---
