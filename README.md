@@ -4,7 +4,6 @@
     Welcome to my GitHub profile!<br>
     I'm a beginner programmer continuously learning and growing in the world of web and software development.
   </p>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool Cat GIF" width="400"/>
 </div>
 
 ---
@@ -47,13 +46,8 @@
 
 ---
 
-## 🚀 About Me
-
 <div align="center">
-  <em>
-    Adventurer, meme lover, coder, and sometimes philosopher.<br>
-    I'm on a quest for new knowledge, always exploring innovative ideas and challenges.
-  </em>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool Cat GIF" width="400"/>
 </div>
 
 ---
