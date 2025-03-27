@@ -65,6 +65,10 @@
   <a href="https://t.me/mewntech" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  <div align="center">
+  <a href="https://www.credly.com/badges/5a0dfd39-0b68-41e5-a840-d2b8550d23d2/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="Cisco">
+  </a>
   <a href="https://elemsocial.com/e/mewnity" target="_blank">
     <img src="https://img.shields.io/badge/ElementSocial-008000?style=for-the-badge&logo=element&logoColor=white" alt="ElementSocial">
   </a>
