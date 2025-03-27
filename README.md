@@ -50,6 +50,14 @@
 </div>
 
 ---
+## 🚀 About Me
+
+<div align="center">
+  <em>
+    Adventurer, meme lover, coder and sometimes philosopher.<br>
+    I'm just studying and always on the quest for new knowledge!
+  </em>
+</div>
 
 ## 📈 GitHub Stats
 
