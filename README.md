@@ -40,6 +40,21 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/><br><sub>Python</sub>
       </td>
     </tr>
+    <tr>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="40" alt="Linux Mint"/><br><sub>Linux Mint</sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" alt="Arch Linux"/><br><sub>Arch Linux</sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="40" alt="Debian"/><br><sub>Debian</sub>
+  </td>
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora"/><br><sub>Fedora</sub>
+  </td>
+</tr>
+
   </table>
 </div>
 
