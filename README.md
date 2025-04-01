@@ -2,7 +2,7 @@
   <h1>Hi, I'm MewnityTech! 👾👾👾</h1>
   <p>
     Welcome to my GitHub profile!<br>
-   I'm a beginner programmer continuously learning and growing in the world of web and software development. Using Linux Mint and Arch. Always excited to work on new projects! 🚀
+   I'm a beginner programmer continuously learning and growing in the world of web and software development. Using Mint and Arch. Always excited to work on new projects! 🚀
   </p>
 </div>
 
