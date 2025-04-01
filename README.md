@@ -41,7 +41,6 @@
     I use arch btw
   </em>
 </div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
