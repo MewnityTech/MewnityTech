@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://elemsocial.com/e/mewnity" target="_blank">
-    <img src="favicon.ico" alt="ElementSocial">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Element">
   </a>
 </div>
 
