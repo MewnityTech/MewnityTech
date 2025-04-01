@@ -41,14 +41,6 @@
   </em>
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MewnityTech&show_icons=true&theme=radical" alt="MewnityTech's GitHub Stats" />
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -56,7 +48,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://elemsocial.com/e/mewnity" target="_blank">
-    <img src="https://img.shields.io/badge/ElementSocial-008000?style=for-the-badge&logo=element&logoColor=white" alt="ElementSocial">
+    <img src="https://elemsocial.com/" alt="ElementSocial">
   </a>
 </div>
 
