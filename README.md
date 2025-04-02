@@ -28,8 +28,10 @@
 
 ---
 
-<div>
-  <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" alt="Flying Rainbow Cat GIF" style="width: 100%; height: 150px; object-fit: cover; display: block; margin: 0 auto;">
+<div style="width: 100vw; overflow: hidden; margin: 0; padding: 0;">
+  <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" alt="Flying Rainbow Cat GIF" style="width: 100vw; height: 100px; object-fit: cover; display: block;">
+</div>
+
 
 </div>
 
