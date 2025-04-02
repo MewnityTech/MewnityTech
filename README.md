@@ -29,7 +29,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" alt="Flying Rainbow Cat GIF" style="width: 100%; display: block; margin: 0 auto;">
+  <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" alt="Flying Rainbow Cat GIF" style="width: 100%; height: 150px; object-fit: cover; display: block; margin: 0 auto;">
+
 </div>
 
 ---
