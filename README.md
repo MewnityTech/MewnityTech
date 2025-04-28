@@ -2,7 +2,7 @@
   <h1>Hi, I'm Volodymyr! 👾👾👾</h1>
   <p>
     Welcome to my GitHub profile!<br>
-   I'm a beginner programmer continuously learning and growing in the world of web and software development. Using Mint and Arch. Always excited to work on new projects! 🚀
+   I'm a beginner programmer continuously learning and growing in the world of web and software development. Using Arch Gnome right now. Always excited to work on new projects! 🚀
   </p>
 </div>
 
