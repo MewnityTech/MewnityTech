@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
 <img src="https://img.shields.io/badge/Chillguy-0078D7?style=for-the-badge&logoColor=white" alt="ChillGuy" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 
 </div>
 
