@@ -38,7 +38,7 @@
 <div align="center">
   <em>
     Adventurer, meme lover, coder and sometimes philosopher.<br>
-    I use arch btw
+    I use mint btw
   </em>
 </div>
 
