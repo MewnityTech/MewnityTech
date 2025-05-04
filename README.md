@@ -50,6 +50,9 @@
   <a href="https://elemsocial.com/e/mewnity" target="_blank">
       <img src="https://img.shields.io/badge/Element-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Element">
   </a>
+  <a href="https://k-connect.ru/profile/mew" target="_blank">
+      <img src="https://img.shields.io/badge/Element-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="KConect">
+  </a>
 </div>
 
 ---
