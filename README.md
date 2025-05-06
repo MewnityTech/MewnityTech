@@ -43,16 +43,16 @@
 
 <div align="center">
   <a href="https://t.me/mewntech" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://elemsocial.com/e/mew" target="_blank">
-    <img src="https://img.shields.io/badge/Element-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Element">
+    <img src="https://img.shields.io/badge/Element-1DA1F2?style=for-the-badge&logo=element&logoColor=white" alt="Element">
   </a>
   <a href="https://www.tiktok.com/@mewnity" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=blue" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-1DA1F2?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
   <a href="https://www.reddit.com/user/mewnityy" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=blue" alt="Reddit">
+    <img src="https://img.shields.io/badge/Reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
   </a>
   <a href="https://twitter.com/MewnityTech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
