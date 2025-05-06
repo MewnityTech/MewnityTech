@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://elemsocial.com/e/mew" target="_blank">
-    <img src="https://img.shields.io/badge/Element-1DA1F2?style=for-the-badge&logo=element&logoColor=white" alt="Element">
+     <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Element">
   </a>
   <a href="https://www.tiktok.com/@mewnity" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-1DA1F2?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
