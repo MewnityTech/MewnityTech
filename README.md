@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Volodymyr!</h1>
+  <h1>Hello, I'm Volodymyr!</h1>
   <p>
     Welcome to my GitHub profile!<br>
    I'm a beginner programmer continuously learning and growing in the world of web and software development/🚀
